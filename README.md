@@ -8,5 +8,4 @@
 -->
 
 - 🔭 I’m currently working on statistical machine learning and bioinformatics.
-- 🌱 I’m currently learning Bayesian data analysis.
 - 📫 How to reach me: https://beyondpie.github.io
