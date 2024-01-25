@@ -5,5 +5,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=beyondpie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 -->
 
-- 🔭 I’m currently working on statistical machine learning and bioinformatics.
 - 📫 How to reach me: https://beyondpie.github.io
